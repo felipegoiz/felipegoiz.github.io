@@ -1,0 +1,18 @@
+    #foto{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .sobredesc {
+      font-family: monospace;
+    }
+    body{
+      background-color: aqua;
+    }
+    .tags-italico{
+      font-style: italic;
+    }
+    .habtamanho{
+      font-size: 20px;
+    }
+    h2{
+      text-decoration: underline;
+    }
