@@ -1,18 +1,28 @@
-    #foto{
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    .sobredesc {
-      font-family: monospace;
-    }
-    body{
-      background-color: aqua;
-    }
-    .tags-italico{
-      font-style: italic;
-    }
-    .habtamanho{
-      font-size: 20px;
-    }
-    h2{
-      text-decoration: underline;
-    }
+#name{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+#image{
+  border: 4px black solid;
+}
+.sobredesc {
+  font-family: monospace;
+}
+body{
+  background-color: aqua;
+}
+.tags-italico{
+  font-style: italic;
+}
+.habtamanho{
+  font-size: 20px;
+}
+h2{
+  text-decoration: underline;
+}
+.Contain01 .bloco_sobre{
+  position:absolute;
+  padding-right: 5%;
+  left: 250px;
+  top: 255px;
+}
